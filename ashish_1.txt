@@ -1,0 +1,52 @@
+What algorithms/data structures do you need before you start competitive programming? None.
+
+You learn things while practicing. That’s how I and almost everyone I know has done it. The only pre-requisite is knowing how to code in any language - preferably C++ or Java and you’re good to go.
+
+The most basic algorithms you can and should learn once you start competitive programming (and you’ll see the need for them very soon - when you are not able to solve a question related to them):
+
+    Number Theory (Part 1, Part 2) - This includes:
+        Modular Arithmetic Basics
+        *Modular Exponentiation (computing $x^n % m$ in $\log n$  - Done
+        *GCD in $\log n$ - Done
+        Modular Multiplicative Inverse,
+        Extended Euclidean Algorithm
+        Prime Factorisation - $\sqrt n$ and Sieve of Eratosthenes
+    
+    Greedy:
+        Tutorial. Developing intuition for greedy algorithms/proving or knowing their correctness for a question comes with practice
+
+    Binary Search:
+        Tutorial. Some of my favorite questions are on Binary Search! It’s a nice topic, and questions based on it can be pretty good if the monotonicity of the function isn’t obvious.
+
+
+    Graph Theory:
+        *Graph Representation - Done
+        *BFS, DFS - 
+        *Shortest Path Algorithms (Dijkstra, Floyd-Warshall, Bellman-Ford)
+        *Minimum Spanning Tree (Prim, Kruskal)
+        *Topological Sort - Done
+        *Strongly Connected Components
+        *Articulation Points and Bridges
+    
+
+    Data Structures:
+        *Disjoint Set Union (DSU) - Done
+        Fenwick Tree (BIT)
+        Sparse Table
+        *Segment Tree
+    
+
+    Dynamic Programming:
+        Writing Top-Down DP (which will suffice 95% of the times)
+        Writing Bottom-Up DP (if time limit/memory limit is too strict)
+    
+
+    Bit Manipulation: (FROM THE BOOK)
+        *Bitwise Operators and their manipulation
+        *Bitmasks (and their use in Dynamic Programming)
+    
+    Strings:
+        KMP Algorithm
+        Z Algorithm
+
+These are the main topics that you will encounter in competitive-programming. If you master them, you should be able to solve over 95% of all questions. More advanced algorithms such as FFT, Flows, etc are very uncommon

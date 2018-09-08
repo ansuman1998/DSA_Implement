@@ -1,0 +1,42 @@
+I have listed all the basic and most-encountered algorithms in Competitive Coding at a basic (and intermediate) level here:
+
+Ashish Gupta's answer to What basic data structures and algorithms should one learn before starting competitive programming?
+
+If you want to go a step further and learn the less-used, and harder-to-learn advanced algorithms, then here is a continuation of that list:
+
+    Dynamic Programming Optimizations:
+        Blog - Use and reduction of the complexities
+    FFT:
+        Lecture on DFT by kevinsogo
+        Tutorial on FFT/NTT: Part 1 and Part 2
+        Implementation
+        FFT and its variants
+        Summary PDF
+    Flow Algorithms:
+        Ford-Fulkerson and Edmonds-Karp - O(VE2)
+
+(with an explanation of what flow algorithms aim to achieve)
+Dinic’s Algorithm - O(V2E)
+Push-relabel algorithm - O(V2E)
+Optimised Push-relabel algorithm - O(V3)
+
+    Graph Theory:
+        2-SAT
+        Centroid Decomposition
+        Heavy Light Decomposition
+    Mo’s Algorithm:
+        Tutorial - Explanation and Implementation
+    Sqrt Decomposition:
+        Tutorial - Explanation and Implementation
+    String Algorithms:
+        Suffix Array
+        Suffix Tree - Ukkonen's Algorithm
+        Aho-Corasick
+    Theorems:
+        Chinese Remainder Theorem (Introduction and Inverse Modulo Based Implementation)
+        Dilworth’s Theorem and Hall’s Marriage Theorem
+        Combinatorial Game Theory (Part 1, Part 2, Part 3, Part 4)
+
+You can find my implementation for some of these algorithms here
+
+These are the more used of the advanced algorithms/data structures. There are some more obscure theorems and algorithms, such as Burnside’s Lemma, Stern-Brocot Tree, etc, and including all of them would make the answer too long, because questions based on these are too rare.
